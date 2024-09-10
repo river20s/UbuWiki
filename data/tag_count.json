@@ -1,5 +1,21 @@
 [
  {
+  "name": "개발자",
+  "size": 1
+ },
+ {
+  "name": "구름입력기",
+  "size": 1
+ },
+ {
+  "name": "소트웍스-앤솔러지",
+  "size": 1
+ },
+ {
+  "name": "프로그래밍-심리학",
+  "size": 1
+ },
+ {
   "name": "aws",
   "size": 2
  },
@@ -36,10 +52,6 @@
   "size": 1
  },
  {
-  "name": "how-to",
-  "size": 1
- },
- {
   "name": "input-source",
   "size": 1
  },
@@ -49,10 +61,6 @@
  },
  {
   "name": "karabiner",
-  "size": 1
- },
- {
-  "name": "latex",
   "size": 1
  },
  {
@@ -81,22 +89,6 @@
  },
  {
   "name": "vim",
-  "size": 1
- },
- {
-  "name": "개발자",
-  "size": 1
- },
- {
-  "name": "구름입력기",
-  "size": 1
- },
- {
-  "name": "소트웍스-앤솔러지",
-  "size": 1
- },
- {
-  "name": "프로그래밍-심리학",
   "size": 1
  }
 ]
