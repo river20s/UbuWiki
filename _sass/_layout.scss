@@ -10,14 +10,13 @@
   body {
     width: 800px;
     margin: auto;
-    border: 1px solid #d0d0d0;
+    background-color: #181818; 
+    color: #E0E0E0; 
   }
 }
 
 .page-content {
-    background:#FAFAFA;
-    // padding: 30px 0;
-
+    background:#181818; 
     img {
         max-width:100%;
     }
@@ -26,6 +25,7 @@
 .post {
     overflow-x: auto;
     padding: 5px;
+    color: #E0E0E0; 
 }
 
 @media (max-width: 1120px) {
@@ -36,10 +36,10 @@
 
 .footer {
     text-align:center;
-}
+    background-color: #181818; 
+    color: #E0E0E0; 
 
 ul.tag-list {
-
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -52,24 +52,27 @@ ul.tag-list {
     li a {
         padding-right: 5px;
         text-decoration: none;
+        color: #ffffff;
     }
 }
 
 .post-link {
     text-decoration: none;
+    color: #ffffff; 
 }
 
 .no-text-deco {
     a {
         text-decoration: none;
+        color: #ffffff; 
     }
 }
 
 .section-nav {
-  background-color: #FFF;
+  background-color: #1E1E1E; 
   margin: 5px 0;
   padding: 10px 30px;
-  border: 1px solid #E8E8E8;
+  border: 1px solid #444444;
   border-radius: 3px;
 }
 
@@ -91,28 +94,30 @@ ul.tag-list {
         text-decoration: none;
         border-radius: 10px;
         border: 0px solid $theme-color;
-        background-color: $theme-color;
+        background-color: #ffffff; 
         color: #FFFFFF;
     }
 
     a.active {
         border: 0px solid transparent;
         background-color: transparent;
-        color: #000000;
+        color: #E0E0E0; 
     }
 }
 
 .pagination li {
     display: inline-block;
 }
+
 .tag-list li {
     display: inline-block;
 }
 
 .post-excerpt {
-    color: $forth-font-color;
+    color: #E0E0E0; 
 }
 
 .post-sub-document {
-    color: #000000;
+    color: #E0E0E0; 
+}
 }

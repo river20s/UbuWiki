@@ -1,16 +1,16 @@
 # Site settings
-title: 기계인간 John Grib
+title: UbuWiki 우부위키
 url: "https://johngrib.github.io"
 baseurl: ""
 description: >
-    기계인간 블로그
+    우북이(Ubukki)의 개인 블로그 겸 위키
 
 # My information
-email: johngrib82@gmail.com
-author: 기계인간 John Grib
-profile: 유물론자
-twitter_username: John_Grib
-github_username: johngrib
+email: river20s@naver.com
+author: Eun-Been Kang (a.k.a Ubukki)
+profile: 우북이
+twitter_username:
+github_username: river20s
 comment-support: utterances
 
 # Build settings

@@ -4,15 +4,24 @@
 
 $base-font-family  : Arial;
 $default-font-size : 0.9rem;
-$default-font-color : #000;
-$second-font-color : #503e2b;
-$third-font-color : #9e948a;
-$forth-font-color : #808094;
+$default-font-color : #e0e0e0;
+$second-font-color : #a6a6a6;
+$third-font-color : #757575;
+$forth-font-color : #999999;
 $small-font-size   : $default-font-size * 0.8;
 $base-line-height  : 1.5;
 
 $coding-font: Consolas, "Courier New", Courier;
-$theme-color: #47146C;
+$theme-color: #1e1e1e;
+
+$background-color: #121212;  
+$border-color: #333333;       
+
+
+body {
+  background-color: $background-color;
+  color: $default-font-color;
+}
 
 // Import from 'sass_dir' (default: _sass)
 @import

@@ -4,7 +4,7 @@
     table {
         border-collapse: collapse;
         border-spacing: 0;
-        border-color: #000000;
+        border-color: #444444;
         margin-bottom: 10px;
 
         td, th {
@@ -13,33 +13,33 @@
         }
         th {
             font-weight:normal;
-            color: #000000;
-            background: #E6E6E6;
+            color: #e6e6e6;
+            background: #181818;
         }
         tr:nth-child(even) {
-            background-color: #f4f4f4;
+            background-color: #202020;
         }
         tr:hover {
-            background: #BEE7F6;
+            background: #333333;
         }
     }
 }
 
 .post {
     li:hover {
-        background: #F3F3F3;
+        background: #333333;
     }
     li > ul > li:hover {
-        background: #F6FBF2;
+        background: #2c2c2c;
     }
     li > ul > li > ul > li:hover {
-        background: #FAF0F4;
+        background: #262626;
     }
     li > ul > li > ul > li > ul > li:hover {
-        background: #F0F4FA;
+        background: #202020;
     }
     li > ul > li > ul > li > ul > li > ul > li:hover {
-        background: #E8F8F5;
+        background: #1a1a1a
     }
 }
 
