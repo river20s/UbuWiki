@@ -1,0 +1,9 @@
+{
+  "routes": [
+    {
+      "src": "/notes/(.*)",
+      "dest": "/src/site/notes/$1"
+    }
+  ]
+}
+
